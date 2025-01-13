@@ -101,11 +101,11 @@ A Stroke Center aims to identify individuals at higher risk of having a stroke i
 For this analysis, I utilized a dataset in CSV format, which I imported into Power BI. After transforming the data, I performed data manipulation to ensure it was thoroughly cleaned.
 I created two conditional columns for further insights. The first column was used to create an age group such as If age is less than or equal to 2 then “Child”, etc.
 
-![conditional column](IMG_1619.png)
+![conditional column](IMG_3011.jpeg)
 
 The Second conditional column was used to create BMI interpretation, if BMI is less than 18.5 then “Underweight”.
 
-![BMI Interpretation](IMG_3011.jpeg)
+![BMI Interpretation](IMG_3006.jpeg)
 The analysis and visualization of this project were done with PowerBi.
 The report of this project was done with Microsoft PowerPoint.
 
@@ -115,7 +115,7 @@ The report of this project was done with Microsoft PowerPoint.
 - Additionally, those classified as Obese or Overweight are at a greater risk of developing stroke compared to those with a healthy weight.
 This data-driven approach can help inform targeted awareness initiatives for stroke prevention.
 
-![StrokeDashboard](IMG_3006.jpeg)
+![StrokeDashboard](IMG_1619.png)
 
 
 # [Project 4: Profit and Loss Analysis](https://medium.com/@bolanleblaize/profit-and-loss-analysis-43eb6c81b270)
