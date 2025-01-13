@@ -6,7 +6,7 @@
 
 ## Technology Skills
 
-![Data Analytical Skills](Profilehead.jpeg)
+![Data Analytical Skills](IMG_3009.jpeg)
 
 ## Professional Certifications
 ##### [DataCamp Data Analyst Associate](https://www.datacamp.com/certificate/DAA0012304669737)
@@ -22,7 +22,7 @@ PetMind is a retailer of products for pets. They are based in the United States.
 The analysis and visualization of this project were done with Excel and Python, and PowerBi.
 The report of this project was done with Microsoft PowerPoint.
 
-![PetMind](petmind%20dashboard1.png)
+![PetMind](IMG_3012.png)
 
 # [Project 2: Adidas Sneakers Sales Analysis](https://medium.com/@bolanleblaize/adidas-sneakers-sales-analysis-23d5dbd2055e)
 The task of this project was to analyze Adidas Sneakers Sales Data to uncover trends and insights that drive success in the industry. 
@@ -94,18 +94,18 @@ There should be a collaboration with Retailer E to understand how they maintain 
 
 The implementation of these strategies will help Adidas maximize Sneaker sales, improve profitability, and ensure sustainable growth in the competitive footwear market.
 
-![Adidas Sneakers Dashboard](AdidasSneakersDashboard.png)
+![Adidas Sneakers Dashboard](IMG_3005.png)
 
 # Project 3: Stroke Prediction Analysis
 A Stroke Center aims to identify individuals at higher risk of having a stroke in order to enhance awareness campaigns. 
 For this analysis, I utilized a dataset in CSV format, which I imported into Power BI. After transforming the data, I performed data manipulation to ensure it was thoroughly cleaned.
 I created two conditional columns for further insights. The first column was used to create an age group such as If age is less than or equal to 2 then “Child”, etc.
 
-![conditional column](conditionalcolumn.jpg)
+![conditional column](IMG_1619.png)
 
 The Second conditional column was used to create BMI interpretation, if BMI is less than 18.5 then “Underweight”.
 
-![BMI Interpretation](BmiInterpretation.jpg)
+![BMI Interpretation](IMG_3011.jpeg)
 The analysis and visualization of this project were done with PowerBi.
 The report of this project was done with Microsoft PowerPoint.
 
@@ -115,7 +115,7 @@ The report of this project was done with Microsoft PowerPoint.
 - Additionally, those classified as Obese or Overweight are at a greater risk of developing stroke compared to those with a healthy weight.
 This data-driven approach can help inform targeted awareness initiatives for stroke prevention.
 
-![StrokeDashboard](StrokeDashboard.png)
+![StrokeDashboard](IMG_3006.jpeg)
 
 
 # [Project 4: Profit and Loss Analysis](https://medium.com/@bolanleblaize/profit-and-loss-analysis-43eb6c81b270)
@@ -130,6 +130,6 @@ This data-driven approach can help inform targeted awareness initiatives for str
   
 The analysis and visualization of this project were done with PowerBi.
 The report of this project was done with Microsoft PowerPoint.
-# ![Group 1 Dashboard](67CpapitalLtdDash.png)
+# ![Group 1 Dashboard](IMG_3004.png)
 
 
